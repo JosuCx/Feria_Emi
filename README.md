@@ -56,12 +56,12 @@ A continuación, se presenta la imagen de verificación que documenta la fase de
 
 ## 📂 Documentación y Entregables del Proyecto
 
-Accede a la documentación formal completa del proyecto a través de los siguientes archivos PDF locales:
+Accede a la documentación formal completa del proyecto a través de los siguientes enlaces locales y remotos:
 
 | Documento | Enlace de Acceso | Descripción |
 | :--- | :--- | :--- |
-| 📄 **Reporte Escrito Oficial (PDF)** | [Proyecto IO2.docx.pdf](Proyecto%20IO2.docx.pdf) | **33 páginas** detalladas que cubren el marco teórico, justificación, aplicación de teoría de colas, instrumentación de hardware, resultados y conclusiones del sistema autónomo. |
-| 📊 **Presentación de Negocios (PDF)** | [Presentación de Tecnología Empresarial Profesional Sencilla Azul .pdf](Presentaci%C3%B3n%20de%20Tecnolog%C3%ADa%20Empresarial%20Profesional%20Sencilla%20Azul%20.pdf) | **28 páginas** en formato Canva que presentan la visión corporativa de *Liceria y Asociados* y la viabilidad comercial y técnica de *GAIABOT*. |
+| 📄 **Reporte Escrito Oficial** | [Local (PDF)](Proyecto%20IO2.docx.pdf) / [Google Docs](https://docs.google.com/document/d/1ROCc7hmjQqiWRRdK9iS-UZbOOrSyNptF/edit?usp=sharing&ouid=113535808840496335442&rtpof=true&sd=true) | **33 páginas** detalladas que cubren el marco teórico, justificación, aplicación de teoría de colas, instrumentación de hardware, resultados y conclusiones del sistema autónomo. |
+| 📊 **Presentación de Negocios** | [Local (PDF)](Presentaci%C3%B3n%20de%20Tecnolog%C3%ADa%20Empresarial%20Profesional%20Sencilla%20Azul%20.pdf) / [Canva](https://canva.link/2tpr6zzhry2f635) | **28 páginas** en formato Canva que presentan la visión corporativa de *Liceria y Asociados* y la viabilidad comercial y técnica de *GAIABOT*. |
 
 ---
 
