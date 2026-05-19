@@ -28,13 +28,17 @@ Para lograr la máxima eficiencia operativa y optimizar el uso del agua y los ti
 
 ## 📽️ Demostración en Video
 
-Visualiza el funcionamiento y desempeño del dron terrestre autónomo **GAIABOT** en el siguiente video:
+Visualiza el funcionamiento y desempeño en tiempo real de **GAIABOT** reproduciendo el video de demostración en YouTube:
 
 <div align="center">
-  <video src="GaiaBot.mp4" controls width="100%" style="max-width: 800px; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,0,0,0.2);" poster="Imagen%20(4).jpg.jpeg">
-    Tu navegador no soporta la reproducción directa de video. <a href="GaiaBot.mp4">Descarga el video aquí</a>.
-  </video>
-  <p><em>Demostración operativa de GAIABOT en el terreno de prueba</em></p>
+  <a href="https://youtu.be/xSZB800IaCs" target="_blank">
+    <img src="https://img.youtube.com/vi/xSZB800IaCs/maxresdefault.jpg" alt="Ver Demostración de GAIABOT en YouTube" width="100%" style="max-width: 800px; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,0,0,0.2);">
+  </a>
+  <br><br>
+  <a href="https://youtu.be/xSZB800IaCs" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-Reproducir%20Demostración-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Ver en YouTube">
+  </a>
+  <p><em>Haz clic en la imagen o en el botón superior para ver el video en YouTube.</em></p>
 </div>
 
 ---
